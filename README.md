@@ -1,0 +1,1 @@
+# subindic_practice_cur_outside_ns
